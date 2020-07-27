@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+div {
+  border: black 3px solid;
+  float: initial;
+  width: 20em;
+  height: 10em;
+}
+
+h1,
+h2,
+h3 {
+  font-family: fantasy;
+}
+.fecha {
+  font-size: 0.8em;
+  color: grey;
+}
+.verde {
+  color: green;
+  font-weight: bold;
+}
+.rojo {
+  color: red;
+  font-weight: bolder;
+}

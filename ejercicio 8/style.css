@@ -1,0 +1,56 @@
+body {
+  background: url(https://okdiario.com/img/2019/06/11/como-hacer-un-termometro-casero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  padding-top: 15px;
+  text-align: center;
+  font-size: 3em;
+  text-decoration: underline wavy purple;
+}
+li {
+  font-size: 2em;
+  text-align: justify;
+  padding: 10px 10px 20px;
+  /* padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 10px; */
+}
+.azul-oscuro {
+  color: white;
+  font-weight: 900;
+  background-color: rgb(11, 11, 72);
+}
+.azul {
+  background-color: rgb(11, 11, 200);
+}
+.azul-claro {
+  background-color: rgb(58, 58, 151);
+}
+.azul-clarito {
+  background-color: rgb(111, 136, 205);
+}
+.celeste {
+  background-color: rgb(162, 188, 218);
+}
+.agua {
+  background-color: rgb(211, 218, 233);
+}
+.beige {
+  background-color: rgb(243, 240, 223);
+}
+.amarillo {
+  background-color: rgb(219, 219, 104);
+}
+.naranja {
+  background-color: rgb(194, 124, 40);
+}
+.anaranjado {
+  background-color: rgb(212, 87, 10);
+}
+.rojo {
+  background-color: rgb(231, 28, 28);
+  font-weight: 900;
+}

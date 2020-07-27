@@ -1,0 +1,65 @@
+body {
+  font-family: "Playfair Display", serif;
+}
+h1 {
+  font-size: 3em;
+  text-align: center;
+  /* text-decoration: underline me permite colocar un subrayado en el texto y ademas agregarle color */
+  text-decoration: underline rebeccapurple;
+}
+h2 {
+  font-size: 2em;
+  /* wavy en text-decoration me da un subrayado ondulado */
+  text-decoration: underline wavy blue;
+}
+
+.m1 {
+  color: whitesmoke;
+  background-color: #0f1b07;
+}
+.m2 {
+  background-color: #ffffff;
+}
+.m3 {
+  background: #5c821a;
+}
+.m4 {
+  background-color: #c6d166;
+}
+.g1 {
+  background-color: rgb(52, 136, 140);
+}
+.g2 {
+  background-color: rgb(124, 170, 45);
+}
+.g3 {
+  background-color: rgb(245, 227, 86);
+}
+.g4 {
+  background-color: rgb(203, 99, 24);
+}
+.b1 {
+  color: whitesmoke;
+  background-color: hsl(4, 26%, 25%);
+}
+.b2 {
+  background-color: hsl(0, 100%, 40%);
+}
+.b3 {
+  background-color: hsl(64, 69%, 73%);
+}
+.b4 {
+  background-color: hsl(128, 26%, 34%);
+}
+.a1 {
+  background-color: #9a9eab;
+}
+.a2 {
+  background-color: #5d535e;
+}
+.a3 {
+  background-color: #ec96a4;
+}
+.a4 {
+  background-color: #dfe166;
+}

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@600&display=swap");
+h1 {
+  font-size: 4em;
+  font-family: monospace;
+  text-transform: uppercase;
+  text-align: center;
+}
+.info {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5em;
+  text-align: right;
+}
+a {
+  color: rgb(53, 139, 189);
+  text-decoration: none;
+}
+p {
+  color: gray;
+  font-family: "Lora", serif;
+  font-size: 2em;
+}
+.negrita {
+  color: black;
+  font-weight: bold;
+}
+
+ul {
+  font-style: italic;
+  color: midnightblue;
+  font-family: sans-serif;
+  font-size: 2em;
+}
+.ccc {
+  background-color: skyblue;
+  font-weight: bold;
+}

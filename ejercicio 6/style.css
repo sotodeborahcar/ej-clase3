@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://www.ecestaticos.com/image/clipping/f60edc39852960524dc2e61ee2330317/cuatro-frutas-que-te-ayudan-a-combatir-enfermedades.jpg);
+  /* background-repeat: repeat-y; */
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: rgb(29, 29, 155);
+  font-size: 3em;
+}
+div {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+}
+
+#ocho {
+  color: rgb(176, 197, 143);
+}
+.nueve {
+  color: orange;
+}
+#diez {
+  color: green;
+}

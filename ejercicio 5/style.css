@@ -1,0 +1,23 @@
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 2em;
+}
+.izq {
+  text-align: left;
+  color: blue;
+  font-size: 3em;
+  -webkit-text-stroke: 2px black;
+}
+.cen {
+  text-align: center;
+  color: red;
+  font-size: 3em;
+  font-weight: bold;
+}
+.der {
+  text-align: right;
+  color: blueviolet;
+  font-size: 4em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: oblique;
+}

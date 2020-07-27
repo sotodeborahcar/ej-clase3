@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap");
+html {
+  /* background-color: #212121;
+  color: #fafafa; */
+
+  /* https://www.cssmatic.com/
+  para configurar los colores en gradientes */
+  background: rgba(229, 221, 244, 1);
+  background: linear-gradient(
+    45deg,
+    rgba(229, 221, 244, 1) 0%,
+    rgba(235, 228, 246, 1) 22%,
+    rgba(126, 85, 216, 1) 50%,
+    rgba(126, 85, 216, 1) 79%
+  );
+}
+
+h1 {
+  font-size: 120px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  text-align: center;
+}
+p {
+  font-size: 48px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+.red {
+  font-style: italic;
+  color: red;
+  text-decoration-color: cornflowerblue;
+}
+.blue {
+  background-color: pink;
+  color: blue;
+  text-transform: uppercase;
+}
+.green {
+  color: chartreuse;
+  -webkit-text-stroke: 2px black;
+}
+.grey {
+  color: rgb(189, 162, 162);
+  -webkit-text-stroke: 3px black;
+}
+.pink {
+  font-family: "UnifrakturMaguntia", cursive;
+  color: rgb(17, 16, 15);
+  font-size: 60px;
+  -webkit-text-stroke: 2px rgb(29, 230, 213);
+  vertical-align: -25px;
+}
